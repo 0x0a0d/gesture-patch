@@ -1,6 +1,6 @@
 {
   "name": "gesture-patch",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "android patch react-native-gesture-handler",
   "main": "index.js",
   "scripts": {
